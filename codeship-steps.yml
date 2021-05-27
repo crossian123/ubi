@@ -1,7 +1,7 @@
 - type: parallel
   name: example_parallel_step
   steps:
-    - service: codeship_example
+    - service: codeship_example1
       command: printenv
     - service: codeship_example
       # shell wrapper not required unless passing along env vars or combining commands
