@@ -9,4 +9,4 @@
 - name: example_tagged_step
   tag: master
   service: codeship_example
-  command: echo "Deploy here!123"
+  command: echo "Deploy here!1234"
