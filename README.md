@@ -1,4 +1,4 @@
-# Deployment Template1
+# Deployment Template12
 
 This repository contains deployment structure templates for deployments in [UbiOps](https://ubiops.com).
 
