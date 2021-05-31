@@ -6,7 +6,7 @@
     - service: codeship_example
       # shell wrapper not required unless passing along env vars or combining commands
       command: /bin/bash -c 'ls && echo ${CI_BUILD_ID}'
-- name: example_tagged_step
+- name: example_tagged_step1
   tag: master
   service: codeship_example
   command: echo "Deploy here!123456qqqqq"
