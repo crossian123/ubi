@@ -1,4 +1,4 @@
-# Deployment Tempate123567899
+# Deployment Tempate
 
 This repository contains deployment structure templates for deployments in [UbiOps](https://ubiops.com).
 
