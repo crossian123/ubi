@@ -1,6 +1,6 @@
 # Deployment Tempate3456845
 6
-This repository contains deployment structure templates for deployments in [UbiOps](https://ubiops.com).
+This repository contains deployment structure templates for deployments in [UbiOps](https://ubiops.com). d
 
 ### Supported programming languages and versions
 
