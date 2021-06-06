@@ -13,7 +13,7 @@ nkn
 
 An extensive documentation about UbiOps can be found at [UbiOps docs](https://docs.ubiops.com "UbiOps docs").
 
-The template deployment package in this repository implements a dummy structured deployment that simply returns a
+The template deployment package in this repository implements a dummy structured deployment that simply returns axc
 random number. It expects one input field `input` of type `double precision`, and returns one output field `output` of
 type `double precision`.
 
